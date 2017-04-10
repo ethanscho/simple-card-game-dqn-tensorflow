@@ -9,11 +9,11 @@ Result graph shows that Double DQN outperforms DQN.
 ![alt tag](https://github.com/ethanscho/simple-card-game-dqn-tensorflow/blob/master/result.png)
 
 ## Usage
-1. git clone https://github.com/ethanscho/simple-card-game-a3c-tensorflow.git
+1. git clone https://github.com/ethanscho/simple-card-game-dqn-tensorflow.git
 
-2. cd simple-card-game-a3c-tensorflow
+2. cd simple-card-game-dqn-tensorflow
 
-3. python a3c.py
+3. python game.py
 
 ## History
 v1.0 - Apr. 10. 2017 
