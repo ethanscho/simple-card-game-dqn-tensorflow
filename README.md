@@ -1,4 +1,4 @@
-# Simple Card Game A3C Tensorflow
+# Simple Card Game DQN Tensorflow
 This project is an application of DQN/Double DQN to win a simple card game. 
 
 ## Purpose
